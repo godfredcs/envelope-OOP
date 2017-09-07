@@ -1,5 +1,4 @@
 <?php 
+require_once 'core/init.php';
 
 ?>
-
-<h1>How are you doing luvs</h1>
